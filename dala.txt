@@ -1,1 +1,3 @@
-hello
+git init
+git add 文件/--all
+git commit -m "xxx"
